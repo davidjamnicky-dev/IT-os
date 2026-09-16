@@ -1,2 +1,9 @@
-#zajimave weby pro predmet os
+# zajimave weby pro predmet os
 https://www.root.cz
+https://abclinuxu.cz
+https://www.tomshardware.com/
+https://debian.org
+https://ubuntu.com/
+https://fedoraproject.org/
+https://redhat.com
+https://endeavouros.com
